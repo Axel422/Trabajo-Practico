@@ -6,12 +6,10 @@ class Program
     {
         Console.WriteLine("--- BLOQUE 3: TEXTO Y CARACTERES ---");
 
-            // Cadena de texto (string) - Comillas dobles ""
             string nombre = "Ana López";
             Console.WriteLine("4. TIPO TEXTO (string):");
             Console.WriteLine("   Valor guardado: " + nombre);
 
-            // Carácter único (char) - Comillas simples ''
             char inicialNombre = 'A';
             Console.WriteLine("\n5. TIPO CARÁCTER (char):");
             Console.WriteLine("   Valor guardado: '" + inicialNombre + "'");

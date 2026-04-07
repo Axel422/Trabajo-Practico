@@ -6,7 +6,6 @@ class Program
     {
             Console.WriteLine("--- BLOQUE 1: NÚMEROS ENTEROS ---");
 
-            // Declaración de un entero
             int edad = 28;
 
             Console.WriteLine("1. TIPO ENTERO (int):");
