@@ -1,9 +1,9 @@
-﻿namespace Programa_00;
+﻿namespace TP00;
 
 class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        Console.WriteLine("Mi mundo,Axel");
     }
 }
