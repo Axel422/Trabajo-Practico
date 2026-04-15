@@ -1,0 +1,13 @@
+Pasos a seguir:
+
+1. Definir variables o estructuras: Crear dos listas o arreglos, uno para guardar los nombres de los clientes y otro para sus edades.
+
+2.Ingreso de datos: Repetir un proceso 20 veces donde se le pida al usuario que ingrese el nombre y la edad de cada cliente.
+
+3.Almacenamiento: Guardar cada nombre junto con su edad en las listas correspondientes para poder utilizarlos después [3].
+
+4.Validación de edad: Una vez cargados los datos, recorrer la lista de edades y verificar cuáles son mayores a 30 años.
+
+5.Condición de acceso: Si la edad del cliente es mayor a 30, se considera que puede ingresar al boliche; si no, se le rechaza el acceso [1].
+
+6.Mostrar resultados: Finalmente, mostrar en pantalla solo los nombres de las personas que cumplen la condición (mayores de 30).
